@@ -1,8 +1,8 @@
 # Labpy_3
 Program Sederhana Python Perulangan
-Setelah saya posting "Labpy-2", sekarang saya ingin memposting cara membuat program sederhana. Yang di butuhkan for dan while.
+Setelah saya posting "Labpy02", hari ini saya akan memposting cara membuat program sederhana. Yang di butuhkan for dan while.
 
-Struktur Algoritma MP3 Prepare 1(Latihan 1)
+Struktur Algoritma MP3Prepare
 
 1.)Mulai
 2.)Tampilkan n bilangan acak yang lebih kecil dari 0.5
