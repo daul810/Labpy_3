@@ -30,3 +30,4 @@ Cetak “Bilangan Terbesar Bilangan Kedua”.
 Cetak “Bilangan Terbesar Bilangan Ketiga”.
 Selesai
 Step pada source code MP3_2 :
+![lili - Notepad 06_01_2020 09_54_03 (2)](https://user-images.githubusercontent.com/53391777/71792376-19296a80-306b-11ea-8c54-9ed936be4a80.png)
