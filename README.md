@@ -31,3 +31,6 @@ Cetak “Bilangan Terbesar Bilangan Ketiga”.
 Selesai
 Step pada source code MP3_2 :
 ![lili - Notepad 06_01_2020 09_54_03 (2)](https://user-images.githubusercontent.com/53391777/71792376-19296a80-306b-11ea-8c54-9ed936be4a80.png)
+![Rdika19_4 Labpy-3_ Program sederhana python _Perulangan_ For Dan While _ - Google Chrome 06_01_2020 10_06_31 (2)](https://user-images.githubusercontent.com/53391777/71792854-ee401600-306c-11ea-8fd0-f160dfe569dc.png)
+ScreenShoot Code MP3_2 :
+![Labpy_3 mpo](https://user-images.githubusercontent.com/53391777/71793009-85a56900-306d-11ea-916d-5d3ce1ad8249.png)
