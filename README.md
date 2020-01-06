@@ -10,4 +10,8 @@ Struktur Algoritma MP3Prepare
 4.)Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya.
 5.)Gunakan fungsi random() yang dapat diimport terlebih dahulu.
 6.)Selesai
-Step pada source code MP3 Prepare 1
+Step pada source code MP3 Prepare 
+
+Screenshoot MP3 Prepare
+![Labpy_3](https://user-images.githubusercontent.com/53391777/71791806-dc5c7400-3068-11ea-8b33-a17191742b4a.png)
+
