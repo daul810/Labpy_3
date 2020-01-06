@@ -11,6 +11,7 @@ Struktur Algoritma MP3Prepare
 5.)Gunakan fungsi random() yang dapat diimport terlebih dahulu.
 6.)Selesai
 Step pada source code MP3 Prepare 
+![4 Labpy-3_README md at master · Rdika19_4 Labpy-3 - Google Chrome 05_01_2020 15_27_21 (2)](https://user-images.githubusercontent.com/53391777/71791889-30675880-3069-11ea-925a-e4a7dfaae7d6.png)
 
 Screenshoot MP3 Prepare
 ![Labpy_3](https://user-images.githubusercontent.com/53391777/71791806-dc5c7400-3068-11ea-8b33-a17191742b4a.png)
